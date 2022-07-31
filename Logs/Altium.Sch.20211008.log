@@ -1,0 +1,53 @@
+16:29:44.780 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation suspended globally (0) 
+16:29:44.804 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation resumed globally (0) 
+16:29:45.651 [Info] Altium.Sch.Core.Settings.AdGlobalSettings: Global settings initialized 
+16:29:45.651 [Info] Altium.Sch.Core.InterfaceProviders.ModelTypesProvider: Model types initialized 
+16:29:46.096 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\AD20\Library\Projects\Miscellaneous Devices\Miscellaneous Devices.LibPkg' 
+16:29:46.221 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb' 
+16:29:46.373 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb' 
+16:29:46.423 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb 
+16:29:46.434 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 0 
+16:29:46.484 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation requested (DCCW.ProjectLoaded): C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb  
+16:29:46.484 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Load Project C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb Completed, 0 schematics (0:00:00,0518132) 
+16:29:46.516 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: Compilation completed, (0:00:00,0270134) 
+16:29:46.631 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (ViolationCount:0, AllViolations:0, DeleteExisting:True) (0:00:00,0006537) 
+16:29:46.631 [Info] Altium.Sch.Core.Verification.ProjectValidator: ERC default completed (0:00:00,0424233) 
+16:29:46.631 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation request completed: DONE ver: 1  - C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb, Compiled: True 
+16:29:47.067 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\MCU.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb, unit: eMil, (0:00:00,1665597) 
+16:29:47.409 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:29:47.412 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 3 
+16:29:47.444 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation requested (DCCW.ProjectLoaded): C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb  
+16:29:47.444 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Load Project C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb Completed, 3 schematics (0:00:00,0351471) 
+16:29:47.481 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation requested (DCCW.DocumentLoading (delayed)): C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb  
+16:29:47.481 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\MP2307DN.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb, unit: eMil, (0:00:00,00373) 
+16:29:47.586 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation requested (DCCW.DocumentLoading (delayed)): C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb  
+16:29:47.586 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\IR2101.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb, unit: eMil, (0:00:00,0007637) 
+16:29:47.586 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: Compilation completed, (0:00:00,1318609) 
+16:29:47.831 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (ViolationCount:55, AllViolations:55, DeleteExisting:True) (0:00:00,1047593) 
+16:29:47.832 [Info] Altium.Sch.Core.Verification.ProjectValidator: ERC default completed (0:00:00,172722) 
+16:29:47.832 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation request completed: DONE ver: 4  - C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb, Compiled: True 
+16:29:47.832 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: Compilation completed, (0:00:00,0021781) 
+16:29:47.832 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (ViolationCount:55, AllViolations:55, DeleteExisting:True) (0:00:00,0002082) 
+16:29:47.832 [Info] Altium.Sch.Core.Verification.ProjectValidator: ERC default completed (0:00:00,0049727) 
+16:29:47.832 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: Compilation request completed: DONE ver: 8  - C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb, Compiled: True 
+16:29:47.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Markers for Schematic Error Objects: 0 (0:00:00,0000239) 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notifications end, (0:00:00,0019999) 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:29:49.764 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Markers for Schematic Error Objects: 48 (0:00:00,0011135) 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notifications end, (0:00:00,0248259) 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Markers for Schematic Error Objects: 48 (0:00:00,001105) 
+16:29:49.791 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Compile Notifications end, (0:00:00,0012295) 
+16:31:27.418 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\ProjectX\ProjectX.PrjPcb 
+16:31:27.418 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\motorsürücü\motorsürücü.PrjPcb 
+16:31:27.418 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+16:31:27.462 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation suspended globally (0) 
+16:31:28.062 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+16:31:28.148 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+16:31:28.231 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+16:31:28.320 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation resumed globally (0) 

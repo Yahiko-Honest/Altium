@@ -1,0 +1,7 @@
+19:48:55.621 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation suspended globally (0) 
+19:48:55.640 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation resumed globally (0) 
+19:48:56.494 [Info] Altium.Sch.Core.Settings.AdGlobalSettings: Global settings initialized 
+19:48:56.496 [Info] Altium.Sch.Core.InterfaceProviders.ModelTypesProvider: Model types initialized 
+19:58:50.258 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+19:58:50.304 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation suspended globally (0) 
+19:58:50.589 [Info] Altium.Sch.Compilation.Compiler.CompilerGlobalController: Continuous compilation resumed globally (0) 
